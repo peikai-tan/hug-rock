@@ -1,7 +1,7 @@
 {
     "name": "hugrock", 
     "short_name": "hugrock", 
-    "start_url": "/", 
+    "start_url": "/hug-rock", 
     "display": "standalone", 
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
