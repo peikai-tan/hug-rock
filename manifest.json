@@ -1,0 +1,15 @@
+{
+    "name": "hugrock", //long name of your app
+    "short_name": "hugrock", //name of your app on home screen
+    "start_url": "/", //homepage
+    "display": "standalone", //how app is displayed
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [ //icons for different uses, SVG can be used for all
+        {
+            "src": "/lib/images/hugrock.png",
+            "type": "image/png",
+            "sizes": "any"
+        }
+    ]
+}
